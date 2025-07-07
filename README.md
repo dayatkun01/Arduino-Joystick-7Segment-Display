@@ -49,7 +49,7 @@ SW(Joystick) = A0(Arduino)
 
 Note: Maybe you wondering why, because why i told u for use Analog in arduino for joystick SW than Digital? because, you arduino pin would be fulled fill by LED
 
-And you are all set! you ready for use
+And you are all set! you ready for using this
 
 Now i will give you the control
 
